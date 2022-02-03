@@ -1,0 +1,39 @@
+canvas {
+    background-color: rgb(255, 193, 252);
+    
+    image-rendering: crisp-edges !important;
+    
+}
+
+h2 {
+    background-color: rgb(243, 75, 243);
+    color: black;
+    font-size: 35px;
+    width: 500px;
+   
+}
+.titulo{
+    position: absolute;
+    top: 5%;
+    left: 10px;
+    width: 498px;
+}
+
+body {
+    background-color: rgb(247, 248, 248);
+}
+
+h3 {
+    font-size: 25px;
+}
+
+label {
+    font-size: 22px;
+}
+
+.resultados{
+    position: absolute;
+    top: 15%;
+    left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
